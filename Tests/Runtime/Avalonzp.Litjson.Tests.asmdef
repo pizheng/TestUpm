@@ -1,0 +1,11 @@
+{
+    "name": "Avalonzp.Litjson.Tests",
+    "references": [
+        "Avalonzp.Litjson"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

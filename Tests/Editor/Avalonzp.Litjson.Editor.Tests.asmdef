@@ -1,0 +1,14 @@
+{
+    "name": "Avalonzp.Litjson.Editor.Tests",
+    "references": [
+        "Avalonzp.Litjson.Editor",
+        "Avalonzp.Litjson"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

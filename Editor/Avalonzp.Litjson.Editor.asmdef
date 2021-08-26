@@ -1,0 +1,10 @@
+{
+    "name": "Avalonzp.Litjson.Editor",
+    "references": [
+      "Avalonzp.Litjson"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
